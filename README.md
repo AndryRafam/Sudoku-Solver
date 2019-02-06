@@ -5,7 +5,8 @@
 # How to use the program
 
 - The program ask the user to fill the rows with number from 0 to 9; where 0 represents EMPTY CELLS.
-- If solution exist, the program will output it. # Enjoy.
+- If solution exist, the program will output it.
+- ENJOY !!!
 
 # Files included
 - Sudoku folder contains the following files:
