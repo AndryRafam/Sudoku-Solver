@@ -10,6 +10,8 @@
 # Files included
 - Core folder: Contains Sudoku function and its (direct) dependencies
 - Main folder: Contains Main program and its (direct) dependencies
+- Output png
+- Makefile
 
 # How to run the program (Debian / Ubuntu)
 - 1) Upload the program
