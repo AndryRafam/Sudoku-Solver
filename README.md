@@ -11,7 +11,7 @@
 - Core folder: Contains Sudoku function and its (direct) dependencies
 - Main folder: Contains Main program and its (direct) dependencies
 
-# How to run the program
+# How to run the program (Debian / Ubuntu)
 - 1) Upload the program
 - 2) In command line, redirect to the folder which contains the uploaded program
 - 3) Type make and press enter to compile
